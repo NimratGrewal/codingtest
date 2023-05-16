@@ -1,6 +1,7 @@
 So, the process that i figured for classifying the categories was a bit different since i actually manually found the tweets. 
 
-For the misinformation category, i labelled it as misinformation if the tweet contradicted what we know as common information. 
+For the misinformation category, i labelled it as misinformation if the tweet contradicted what we know as common information and/or
+it may be giving us information that is news that is not confirmed by official sources.
 
 for the category, i labelled it as news if the main point of the tweet was to display news, and labelled it an opinion if 
 the main point of the tweet was to display an opinion - this includes beliefs or 'facts' that people may claim that may have 
