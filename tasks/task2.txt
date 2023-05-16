@@ -1,0 +1,21 @@
+So, the process that i figured for classifying the categories was a bit different since i actually manually found the tweets. 
+
+For the misinformation category, i labelled it as misinformation if the tweet contradicted what we know as common information. 
+
+for the category, i labelled it as news if the main point of the tweet was to display news, and labelled it an opinion if 
+the main point of the tweet was to display an opinion - this includes beliefs or 'facts' that people may claim that may have 
+no official sources behind it. There were some tweets that were a mix of both - that displayed news and an opinion 
+and those i labelled as 'news or opinion if...' where it could be counted as an opinion if official sources did not confirm this 
+to be the case, but that there is also a news aspect to it, and they both seem pretty equally balanced, so we don't know which 
+one the tweeter wanted to have more emphasis on. 
+
+I labelled something as breaking news if it was urgent and time sensitive (new) and the undertone behind it seemed like it was 
+new news. I labelled something as normal news if the tweet did not display the same urgency, and may perhaps had been looking to 
+add to the facts of the news that we know previously.
+
+For pro life and pro choice, if someone was advocating for either, and it was an stronger opionated standpoint, then i just lablled it as that, but 
+if it was potential news or a mix of a news and opinion, then i also looked at misinformation to see if this information was accurate,
+and also looked at the context behind the tweet as well to see which one it was leaning more towards if any. 
+
+Overall, i looked at misinformation for all the tweets to see how trustworthy the tweet context was in terms of all the categories. 
+
