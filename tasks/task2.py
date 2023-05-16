@@ -2,7 +2,9 @@ import pandas as pd
 import task1
 import requests
 
-# set up your authentication credentials
+# set up your authentication credentials - 
+# task 1 and task 2 are in the same directory for me
+# so i used task1.{key} for convenience.
 consumer_key = task1.api_key
 consumer_secret = task1.api_secret
 access_token = task1.access_token
