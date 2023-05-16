@@ -74,7 +74,7 @@ df.to_csv('scraped_user_data.csv')
 # using "gem install twurl' command.then when inputting my consumer key
 # and secret key, i got these errors "undefined method `Exception' for
 # Twurl::CLI:Class (NoMethodError)" and "invalid option:
-# --fdfqeJZko2mi0gCp0mwpXU76v (OptionParser::InvalidOption)". i tried googling
+# --consumer-key (OptionParser::InvalidOption)". i tried googling
 # those errors as well, and i think it all boils down to my oauth issue.
 # whatever method i use to gain access to the twitter api, it does not
 # authorize me to run these command line codes or my python script codes.
